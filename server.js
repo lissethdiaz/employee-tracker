@@ -8,12 +8,12 @@ inquirer
       type: 'list',
       message: 'Hello! What would you like to do?',
       choices: [
-        'View all departments', 
-        'View all roles', 
-        'View all employees', 
-        'Add a department', 
-        'Add a role', 
-        'Add an employee', 
+        'View All Departments', 
+        'View All Roles', 
+        'View All Employees', 
+        'Add a Department', 
+        'Add a Role', 
+        'Add an Employee',
         // 'Update an employee role', 
         'Quit'
         ]
